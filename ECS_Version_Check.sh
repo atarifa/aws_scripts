@@ -1,6 +1,8 @@
 #!/bin/zsh
 
 #Small script to check the ECS services version. The region should be passed as a parameter.
+#i.e.
+#./ECS_Version_Check.sh eu-west-1
 
 
 source ~/.zshrc
